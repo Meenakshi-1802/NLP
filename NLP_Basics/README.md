@@ -1,4 +1,4 @@
-# 🧠 NLP Fundamentals – Program Notes
+# 🧠 NLP Fundamentals 
 
 This repository contains beginner-friendly NLP programs to help understand basic **Natural Language Processing** concepts using **Python** and **NLTK**.
 
