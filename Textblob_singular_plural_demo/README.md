@@ -49,5 +49,3 @@ Converts a **singular word** to its **plural** form
 ---
 
 
-```bash
-pip install textblob
